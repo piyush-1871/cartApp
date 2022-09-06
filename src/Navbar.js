@@ -7,7 +7,7 @@ const Navbar = (props)=> {
         <div style={styles.nav}>
             <div style={styles.cartName}>
                 <span>
-                    Zee
+                    Z
                 </span>
                 <span style={styles.cartName.span2}>
                     Kart
